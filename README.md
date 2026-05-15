@@ -38,23 +38,23 @@ I am very curious about new ways to implements mechanics and I look foward for m
   <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="Images/PopulasIIRemake/Controller.gif" alt="VR Controllers" width="100%" />
+      <img src="Images/PopulousII/Controller.gif" alt="VR Controllers" width="100%" />
     </td>
     <td width="33%" align="center">
-      <img src="Images/PopulasIIRemake/Masks.gif" alt="Mask Selection" width="100%" />
+      <img src="Images/PopulousII/Masks.gif" alt="Mask Selection" width="100%" />
     </td>
     <td width="33%" align="center">
-      <img src="Images/PopulasIIRemake/Power.gif" alt="Fire Power" width="100%" />
+      <img src="Images/PopulousII/Power.gif" alt="Fire Power" width="100%" />
     </td>
     <tr>
     <td width="33%" align="center">
-      <img src="Images/PopulasIIRemake/GridAndClaimArea.png" alt="PC Gameplay 1" width="100%" />
+      <img src="Images/PopulousII/GridAndClaimArea.png" alt="PC Gameplay 1" width="100%" />
     </td>
     <td width="33%" align="center">
-      <img src="Images/PopulasIIRemake/PCGameplay2.gif" alt="Grid And Claim Area" width="100%" />
+      <img src="Images/PopulousII/PCGameplay2.gif" alt="Grid And Claim Area" width="100%" />
     </td>
     <td width="33%" align="center">
-      <img src="Images/PopulasIIRemake/GameLandscape.png" alt="PC Gameplay 2" width="100%" />
+      <img src="Images/PopulousII/GameLandscape.png" alt="PC Gameplay 2" width="100%" />
     </td>
   </tr>
   </tr>
