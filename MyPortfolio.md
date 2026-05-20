@@ -7,6 +7,9 @@
 </div>
 
 <h1 align="center"> About </h1>
+<div align = "center">
+<img src="Images/Port1.png" alt="VR Controllers" width="50%" />
+
 I am a Graduate in Computer Games Design and Development at Cardiff Metropolitan University interested in game mechanics and how to make them work in different kind of games. I have experience in C++ and C# using them in Unity and Unreal Engine but also in lower API. I have taken part in some cooperative events like the Global Game Jams and other organised by the university where I filled different roles, from designing UI to porting games in different platforms.
 I am very curious about new ways to implements mechanics and I look foward for my new experiences.
 
@@ -15,7 +18,20 @@ I am very curious about new ways to implements mechanics and I look foward for m
 
 <div align="center">
 
+
 <h1 align="center"> Contact Info</h1>
+
+<p>
+  <a href="mailto:axel9310@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" height="40" alt="Contact Me via Email" />
+  </a>
+  
+  axel9310@gmail.com
+
+</p>
+<a href="https://www.linkedin.com/in/alessandro-nap">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 <br>
@@ -29,7 +45,29 @@ I am very curious about new ways to implements mechanics and I look foward for m
     <th width="33%"><div align="center">Game Engines</div></th>
     <th width="33%"><div align="center">Tools</div></th>
   </tr>
-    
+    <tr>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="45" />
+      <br><br>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45" />
+      <br><br>
+    </td>
+<td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="45" />
+      <br><br>
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="45" />
+      <br><br>
+    </td>
+    <td align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="45" />
+      <img src="https://img.shields.io/badge/3ds%20max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" height="45" />
+      <img src="https://img.shields.io/badge/AndroindNDK%20-%20Green?logo=android" height="45" />
+      <br><br>
+    </td>
+  </tr>
 </table>
 
 # Populous II Remake (VR/PC/Switch) (2026)
@@ -218,6 +256,31 @@ This was another fast development project where I made a sudoku solver for diffe
   <br>
 </div>
 
+# Pitch and Play
+
+Pitch and Play is my dissertation project where I made a sound detection game to help in educational music studies. It uses a third party fast fourier library to analyze the sound wave and then detect the accuracy of the note sang to move a platform to balance the ball. The project works on Android and PC.
+
+  <div align="center">
+  
+  <table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="Images/PitchAndPlay/Picture1.png" alt="P&P1" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/PitchAndPlay/Picture2.png" alt="P&P2" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="Images/PitchAndPlay/Picture3.png" alt="P&P3" width="100%" />
+    </td>
+   
+  </tr>
+  </tr>
+  </table>
+
+  <br>
+</div>
+
 
 # Bizarre Bazaar (2026)
 
@@ -264,3 +327,13 @@ My contribution for this Jam was mainly the randomization of the people outfit a
 **Engine and Tools :** Unity, C# Scripting, GIT
 
 <br>
+
+# Other Work (Smaller Projects)
+
+Some smaller contributions and projects are not being included on this portfolio but I will be more than happy to talk about them!
+
+<a href="https://github.com/AxelG6">
+  <img src="https://img.shields.io/badge/GitHub-Link-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+</a>
+
+
