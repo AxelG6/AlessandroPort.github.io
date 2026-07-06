@@ -2,7 +2,7 @@
 ### *Game Developer • Technical Designer • Programmer*
 
 <p align="center">
-  <img src="Images/Port2.png" alt="Portfolio Banner" width="500">
+  <img src="Images/Port2.png" alt="Portfolio Banner" width="250">
 </p>
 
 > *"Men Trip Not On Mountains; They Stumble Upon Stones."*
