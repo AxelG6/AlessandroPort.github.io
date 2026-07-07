@@ -8,6 +8,7 @@
 > *"Men Trip Not On Mountains; They Stumble Upon Stones."*
 
 ---
+<br>
 
 #  About Me
 
@@ -22,14 +23,18 @@ I enjoy working with:
 - Cross platform
 - Automated tests
 ---
+<br>
 
 #  Featured Projects
 
 ---
+<br>
 
-## Populous II Remake
+# Populous II Remake
 
-![Banner](https://placehold.co/1200x400)
+<p align="center">
+<img src="Images/PopulousII/PopCover2.PNG" width= 80%>
+</p>
 
 **Genre:** God Game
 
@@ -55,16 +60,24 @@ A remake of the classic game Populous II from Bullfrog. It is being developed to
 
 ### Gallery
 
-| | |
-|:-:|:-:|
-| ![](https://placehold.co/500x280) | ![](https://placehold.co/500x280) |
-| ![](https://placehold.co/500x280) | ![](https://placehold.co/500x280) |
+<p align="center">
+  <img src="Images/PopulousII/Masks.gif" width="350">
+  <img src="Images/PopulousII/PCGameplay1.gif" width="350">
+</p>
+
+<p align="center">
+  <img src="Images/PopulousII/Volcano.png" width="350">
+  
+</p>
 
 ---
+<br>
 
-## Pitch and Play 
+# Pitch and Play 
 
-![Banner](https://placehold.co/1200x400)
+<p align="center">
+<img src="Images/PitchAndPlay/Picture3.png" width= 80%>
+</p>
 
 **Genre:** Educational Game
 
@@ -80,26 +93,26 @@ Pitch and Play is my dissertation project where I made a sound detection game to
 
 - Real Time sound wave analysis
 - Porting C++ libraries using DLL
-- Setting saving
 - Incremental difficulties
 
 
-### Tech Stack
+### Technologies
 
 `C++` `C#` `Visual Studio` `FFT` `DLL` `Android NDK`
 
 ### Gallery
 
-| | |
-|:-:|:-:|
-| ![](https://placehold.co/500x280) | ![](https://placehold.co/500x280) |
-| ![](https://placehold.co/500x280) | ![](https://placehold.co/500x280) |
-
+<p align="center">
+  <img src="Images/PitchAndPlay/Picture1.png"width="500">
+  <img src="Images/PitchAndPlay/Picture2.png" width="500">
+</p>
 ---
+<br>
 
-## Behind the Lens (Unity)
-
-![Banner](https://placehold.co/1200x400)
+# Behind the Lens (Unity)
+<p align="center">
+<img src="Images/BehindTheLens/BTLBanner.png" width= 80%>
+</p>
 
 **Genre:** Puzzle
 
@@ -116,19 +129,32 @@ Behind the Lens is a first-person escape room where players solve puzzles by con
 - Room generator tool
 - Camera teleporting
 
-### Tech Stack
+### Technologies
 
 `C#` `Visual Studio` `Shaders` `Global volumes` `Tool development`
+
+### Gallery
+
+<p align="center">
+  <img src="Images/BehindTheLens/BTL3.gif"width="500">
+  <img src="Images/BehindTheLens/BTL2.png"width="500">
+  <img src="Images/BehindTheLens/BTL1.png"width="500">
+</p>
 ---
+
+---
+<br>
 
 # 📂 Other Projects
 
-| Project | Engine | Status | Link |
-|----------|--------|--------|------|
-| Dungeon Generator | Unity | ✅ Complete | GitHub |
-
+| Project | Engine | Status |
+|----------|--------|--------|
+| Sudoku Solver| Unity, lower Api | Complete |
+| Fire Spread Simulation| Unity, Unreal | Complete |
+| Roguelike game| Unity | On going |
 
 ---
+<br>
 
 # 💻 Skills
 
@@ -152,12 +178,14 @@ C++
 - Visual Studio
 
 ---
+<br>
 
-# 📜 Certifications
+# Certifications
 
 - 1st Class Degree in Computer Game Design and Development
 
 ---
+<br>
 
 # 🌐 Find Me
 
@@ -171,6 +199,8 @@ C++
 
 # Thanks for Visiting!
 
+Thank you for taking the time to visit my portfolio! If you want to have a deeper look in to the code or see smaller projects I worked on please don't hesitate to contact me!
+
 ```
       _____________
      /             \
@@ -181,4 +211,3 @@ C++
      \_____________/
 ```
 
-> *Always learning. Always creating. Always shipping.*
