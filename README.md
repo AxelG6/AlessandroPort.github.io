@@ -66,7 +66,7 @@ A remake of the classic game Populous II from Bullfrog. It is being developed to
 </p>
 
 <p align="center">
-  <img src="Images/PopulousII/Volcano.png" width="350">
+  <img src="Images/PopulousII/Volcano.PNG" width="350">
   
 </p>
 
@@ -106,7 +106,9 @@ Pitch and Play is my dissertation project where I made a sound detection game to
   <img src="Images/PitchAndPlay/Picture1.png"width="500">
   <img src="Images/PitchAndPlay/Picture2.png" width="500">
 </p>
+
 ---
+
 <br>
 
 # Behind the Lens (Unity)
@@ -137,12 +139,12 @@ Behind the Lens is a first-person escape room where players solve puzzles by con
 
 <p align="center">
   <img src="Images/BehindTheLens/BTL3.gif"width="500">
-  <img src="Images/BehindTheLens/BTL2.png"width="500">
-  <img src="Images/BehindTheLens/BTL1.png"width="500">
+  <img src="Images/BehindTheLens/BTL2.PNG"width="500">
+  <img src="Images/BehindTheLens/BTL1.PNG"width="500">
 </p>
----
 
 ---
+
 <br>
 
 # 📂 Other Projects
